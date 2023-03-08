@@ -1,0 +1,6 @@
+# Intermediary build products
+*.log
+*.out
+*.aux
+
+
